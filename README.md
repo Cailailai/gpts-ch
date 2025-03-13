@@ -1,6 +1,6 @@
-# ChatGPT 中文镜像版：国内直连指南（无需翻墙，支持GPT-4、GPT-4o、GPT-o1）【2025年3月更新】
+# ChatGPT 中文镜像版：国内直连指南（无需翻墙，支持GPT-4、GPT-4o、GPT-o1、o3、deepseek、grok3）【2025年3月更新】
 
-> 更新时间：2025/03/11
+> 更新时间：2025/03/14
 
 全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4 和中文多功能应用！  
 本项目旨在为用户提供一站式的 ChatGPT 中文版使用指南，同时整理了国内可用的 ChatGPT 镜像网站和官网使用教程，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
@@ -37,7 +37,7 @@ ChatGPT 中文版是 OpenAI 开发的 ChatGPT 模型的中文使用版本，专�
 
 | 镜像站地址                       | 支持版本                 | 免费额度 | 注册方式    | 稳定性   | 功能亮点 |
 | --------------------------------- | ------------------------ | -------- | ----------- | -------- | -------- |
-| [songshugpt.com](https://songshugpt.com/) | GPT-4, GPT-4o, GPT-o1    | 有       | 扫码使用    | ⭐⭐⭐⭐⭐   | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [songshugpt.com](https://songshugpt.com/) | GPT-4, GPT-4o, GPT-o1、o3、deepseek、grok3    | 有       | 扫码使用    | ⭐⭐⭐⭐⭐   | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | [gptcat.net](https://gptcat.net/)   | GPT-4, GPT-4o, GPT-o1    | 有       | 扫码使用    | ⭐⭐⭐⭐⭐   | 支持 GPT-o1 模型，一比一还原官网，可以使用 AI 助手、AI 插件 |
 | [gptdog.online](https://gptdog.online/) | GPT-4, GPT-4o           | 有       | 扫码使用    | ⭐⭐⭐⭐    | 提供 AI 使用指南，ChatGPT 中文版使用指南 |
 | [ai.panda.xyz](https://ai.panda.xyz/) | GPT-4, GPT-3.5           | 有       | 扫码使用    | ⭐⭐⭐⭐    | 各种 AI 工具，你想要的，这儿全都有 |
